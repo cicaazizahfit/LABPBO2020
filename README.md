@@ -5,7 +5,7 @@
 1. Pada hasil *fork* anda, Buat **Branch** dengan nama **NIM** anda.
 2. Pada *branch* **NIM** anda, buat direktori didalam direktori **NIM** anda dengan nama **Praktikum-n**.
  
-3. Seluruh berkas **Tugas** pertemuan ke-_**n**_ dismpan pada direktori _**NIM/Praktikum-n**_.
+3. Seluruh berkas **Tugas** pertemuan ke-_**n**_ disimpan pada direktori _**NIM/Praktikum-n**_.
    > - Berkas tugas berupa  `.java` dimana *satu class satu file*.
 4. **Push** berkas tugas anda ke repositori hasil *fork* pada *branch* **NIM** anda.
 5. Buat **Pull Request** untuk **Merge** *branch* **NIM** dengan *branch* **master** pada repositori ini.
